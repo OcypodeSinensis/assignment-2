@@ -8,9 +8,11 @@ A Python script that parses an Excel spreadsheet with multiple tabs containing d
 - **Lines**: Routes and paths between locations
 - **Polygons**: Areas and boundaries
 - **Circles**: Circular regions with custom radius
+- **Lines**: Connects markers to represent routes between locations
 - **Heatmap**: Intensity-based visualization
 - **Marker Clustering**: Automatically groups nearby markers
 - **Multiple Map Layers**: Switch between different map styles
+- **MiniMap**: Small overview map in the bottom-right corner
 
 ## Installation
 
